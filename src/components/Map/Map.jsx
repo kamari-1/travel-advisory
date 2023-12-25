@@ -5,7 +5,7 @@ import { Paper, Typography, useMediaQuery } from "@mui/material";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import Rating from "@mui/material/Rating";
 
-import mapStyles from "../../mapStyles";
+// import mapStyles from "../../mapStyles";
 import useStyles from "./styles";
 
 const Map = ({
